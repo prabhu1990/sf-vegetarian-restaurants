@@ -38,6 +38,7 @@ Ethiopian
 
 * Cafe Ethiopia (Veggie combo with #13, #16, #19, and a full order of #23)
 * Axum Cafe
+* Tadu Ethiopian Kitchen
 
 Thai
 ----
@@ -52,6 +53,7 @@ Chinese
 -------
 
 * Yum Yum Hunan (get the Veggie Potstickers, General Tso Meatless Chicken, and Szechuan String Bean. Order outside of this selection at your own peril)
+* Begoni Bistro (amazing dumplings)
 * Golden Era (excellent selection of seitan fake meat dishes)
 * Big Lantern (Good selection of seiten fake meat)
 * Jasmine Tea House (veggie meats)
@@ -61,15 +63,24 @@ Indian(ish)
 -----------
 
 * Pakwan (amazing Paneer Tika Masala, and many other veggie dishes)
+* Curry Up Now (indian street food; try deconstructed samsosa)
 * Udupi Palace (all vegetarian south indian)
 * Kasa (indian food wraps. sounds weird; tastes good!; several locations)
 * Vik's Chaat (all veg south indian. amazing and authentic. check hours.)
 * Dosa (high-ish-end south indian. vegetarian-friendly. mission location more relaxed than fillmore.)
 
+Nepalese
+-------
+
+* Dancing Yak
+
+
 Burmese
 -------
 
-* Burma Superstar (get the samosa soup and rainbow salad. it'll blow your mind)
+* Burma Superstar/Club/Love 
+	* get the samosa soup and rainbow salad. it'll blow your mind
+	* garden tea salad is a must-try.
 
 Vietnamese
 ----------
